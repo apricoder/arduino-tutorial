@@ -1,1 +1,3 @@
-# arduino-tutorial
+# Arduino Tutorial 🤖
+
+Selected mini projects with demos
